@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## About Me
+
+I am Aiza. I work as a software engineer(backend developer) and enjoy coding. I have expertise in different areas including:
+- Java
+- Springboot
+- JPA
+- Hibernate
+- REST APIs
+- Kotlin
+
 <!--
 **aiza-mansur16/aiza-mansur16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
